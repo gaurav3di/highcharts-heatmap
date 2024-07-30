@@ -1,6 +1,6 @@
 # Tradingview Style Nifty 50 Heatmap Visualization
 
-![Nifty 50 Heatmap](https://your-image-url-here.com)
+![Nifty 50 Heatmap](https://www.marketcalls.in/wp-content/uploads/2024/07/Screenshot-2024-07-30-at-9.27.11 PM.png)
 
 ## Description
 
