@@ -1,4 +1,4 @@
-# Nifty 50 Heatmap Visualization
+# Tradingview Style Nifty 50 Heatmap Visualization
 
 ![Nifty 50 Heatmap](https://your-image-url-here.com)
 
