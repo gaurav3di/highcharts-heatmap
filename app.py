@@ -34,7 +34,7 @@ def get_stock_data(symbol):
                 'name': f"{symbol}|{latest_price:.2f}|{change_percent:.2f}%",
                 'value': float(market_cap),
                 'colorValue': float(change_percent),
-                'image': f'/static/images/nifty50_icons/{symbol}.svg'
+                'image': f'/static/images/nifty50_icons/{symbol}.png'
             }
         else:
             print(f"Not enough data for {symbol}")
